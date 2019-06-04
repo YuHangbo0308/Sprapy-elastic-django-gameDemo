@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table border="1">
+        <tbody>
+        {% for hit in all_hits %}
+            <tr>
+                <td>{{ hit.gameName }}</td>
+                <td>{{ hit.gameContext }}</td>
+                <td>{{ hit.url }}</td>
+            </tr>
+        {% endfor %}
+        
+        </tbody>
+    </table>
+</body>
+</html>

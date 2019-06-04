@@ -1,0 +1,22 @@
+ {
+    '_index': 'test', 
+    '_type': 'game', 
+    '_id': 'BiKsv2oBz9irICjqx1bu',
+    '_score': 7.957473, 
+    '_source': {
+        'url': 'http://ku.gamersky.com/2018/shootout-on-cash-island/', 
+        'developer': '  Quantized Bit ', 
+        'gameContext': '\r\n                                     《现金岛枪战》是由Quantized Bit制作并发行的一款动作射击游戏。来自Hotguns队的Bobby需要寻找并保护传说中的金钱树，并面对很多竞争者的挑战。使用枪支、头盔、手雷和喷气背包，在岛上寻找和收集空瓶子里的地图碎片吧。                 ', 
+        'gameLanguage': '',
+        'gameName': '现金岛枪战', 
+        'gamePlatform': '', 
+        'gameTitle': '', 
+        'gameType': '动作游戏', 
+        'publishDate': '2019-04-16', 
+        'publisher': '', 
+        'suggest': [{'input': ['现金', '枪战'], 'weight': 10}, {'input': ['喷气', '需要', '保护', '金钱', '枪支', '发行', '竞争者', '碎片', '空瓶', '传说中', '背包', '动作', '制作', '游戏', '竞争', '枪战', '面对', '收集', 'bit', '使用', '岛上', '传说', 'hotguns', '地图', '一款', '现金', '瓶子', 'bobby', '挑战', '手雷', '头盔', '来自', '很多', '并发', '射击', '寻找', 'quantized', '说中'], 'weight': 7}, {'input': ['bit', 'quantized'], 'weight': 7}]}, 
+        'highlight': {
+            'gameName': ["现金岛<span class='keyWord'>枪</span><span class='keyWord'>战</span>"], 
+            'gameContext': ["《现金岛<span class='keyWord'>枪</span><span class='keyWord'>战</span>》是由Quantized Bit制作并发行的一款动作射击游戏。", "来自Hotguns队的Bobby需要寻找并保护传说中的金钱树，并面对很多竞争者的挑<span class='keyWord'>战</span>。使用<span class='keyWord'>枪</span>支、头盔、手雷和喷气背包，在岛上寻找和收集空瓶子里的地图碎片吧。"]
+            }
+        }
